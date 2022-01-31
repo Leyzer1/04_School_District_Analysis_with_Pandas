@@ -5,4 +5,5 @@ The purpose of this anaylis is to find is the data shows academic dishonesty. Ac
 
 # Results
 * How is the district summary affected?
+![first_distric_summary](https://user-images.githubusercontent.com/95899763/151753659-3405dadb-ffce-494d-a4e8-20544d71d954.PNG)
 ![second_distric_summary](https://user-images.githubusercontent.com/95899763/151753449-19f24c45-d9e2-4306-8fc1-3267afb4e0b4.PNG)
