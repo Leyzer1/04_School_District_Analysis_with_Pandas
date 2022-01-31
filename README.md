@@ -50,3 +50,13 @@ Before
 After
 
 ![after_size_summary](https://user-images.githubusercontent.com/95899763/151756536-2481b48a-8913-4387-97be-d8b7e48f38c6.PNG)
+
+* Scores by school type
+
+Before
+
+![Before_size_summary](https://user-images.githubusercontent.com/95899763/151756756-fb476604-3114-45c7-96d7-d8c200f618cb.PNG)
+
+After
+
+![after_type_summary](https://user-images.githubusercontent.com/95899763/151756798-5ef5a431-525c-42e4-9410-3d5d8c35c68b.PNG)
