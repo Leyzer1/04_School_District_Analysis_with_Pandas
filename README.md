@@ -14,6 +14,7 @@ The difference is minimal with <1 percent change.
 
 * How is the school summary affected?
 
+Only the scores droped for Thomas High School
 
 ![first_school_summary](https://user-images.githubusercontent.com/95899763/151754289-def3958a-0939-41a8-8087-da4ca4000ec2.PNG)
 ![second_school_summary](https://user-images.githubusercontent.com/95899763/151754326-4aa97465-e707-4031-988c-91431c9c62ad.PNG)
