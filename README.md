@@ -26,5 +26,6 @@ Replacing the scores shows a drastic drop in all grades for Thomas High School
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  
   ![Math_grades_by_grade](https://user-images.githubusercontent.com/95899763/151755348-98c3b147-9332-4831-aa89-d57bfe98fcea.PNG)
   ![Reading_grades_by_grade](https://user-images.githubusercontent.com/95899763/151755400-ac26b63c-e13d-4c5e-896c-02c5eaa8c510.PNG)
