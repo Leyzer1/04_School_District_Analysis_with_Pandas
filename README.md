@@ -25,3 +25,4 @@ Replacing the scores shows a drastic drop in all grades for Thomas High School
 
 
 * How does replacing the ninth-grade scores affect the following:
+* * Math and reading scores by grade
