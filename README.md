@@ -60,3 +60,9 @@ Before
 After
 
 ![after_type_summary](https://user-images.githubusercontent.com/95899763/151756798-5ef5a431-525c-42e4-9410-3d5d8c35c68b.PNG)
+
+# Summary
+Thomas High School's 9th graders scores slightly does not make it competitve with other schools.
+Replacing the 9th graders scores caused Thomas High School's grades to drop drastically.
+The district summary only changed slightly.
+Thomas High School 9th grades are not great perfromers compared to the rest of the grade levels.
