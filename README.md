@@ -40,3 +40,13 @@ Replacing the scores shows a drastic drop in all grades for Thomas High School
   After
   
   ![Spending_after](https://user-images.githubusercontent.com/95899763/151756132-31865ea5-8e90-4f94-9b80-5641595a1420.PNG)
+  
+  * Scores by school size
+
+Before
+
+![Before_size_summary](https://user-images.githubusercontent.com/95899763/151756497-0e63f2dc-56d3-4cfc-b90c-a384e9687270.PNG)
+
+After
+
+![after_size_summary](https://user-images.githubusercontent.com/95899763/151756536-2481b48a-8913-4387-97be-d8b7e48f38c6.PNG)
