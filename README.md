@@ -10,7 +10,9 @@ Initial district summary
 Summary after replacing 9th grade Tomas High School grades with Nan
 ![second_distric_summary](https://user-images.githubusercontent.com/95899763/151753449-19f24c45-d9e2-4306-8fc1-3267afb4e0b4.PNG)
 
-The disfference is minimal with <1 percent change.
+The difference is minimal with <1 percent change.
 
 #How is the school summary affected?
 
+![first_school_summary](https://user-images.githubusercontent.com/95899763/151754289-def3958a-0939-41a8-8087-da4ca4000ec2.PNG)
+![second_school_summary](https://user-images.githubusercontent.com/95899763/151754326-4aa97465-e707-4031-988c-91431c9c62ad.PNG)
